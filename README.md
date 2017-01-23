@@ -1,6 +1,8 @@
 # 2048 Superman version
 A small clone of [Gabriele Cirulli's 2048](http://gabrielecirulli.github.io/2048/)
 
+Made for fun! [Play it here.](https://bharathvadlamudi.github.io/2048/)
+
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request.
 
